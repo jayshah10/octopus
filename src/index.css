@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background-color: #070c1f;
+  color:white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+}
+
+#root{
+  height: 100vh;
+}
